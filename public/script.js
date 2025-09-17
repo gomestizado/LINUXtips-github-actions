@@ -376,7 +376,7 @@ function setupGitHubCheck() {
                         Ou clique abaixo para verificar manualmente.
                     </p>
                     <div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
-                        <input type="text" id="githubUsername" placeholder="Seu usuário do GitHub" value="gomestizado" 
+                        <input type="text" id="githubUsername" placeholder="Seu usuário do GitHub" 
                                style="padding: 10px; border-radius: 6px; border: 1px solid var(--border-color); background: var(--primary-color); color: var(--text-primary); min-width: 200px;">
                         <input type="text" id="githubRepo" placeholder="LINUXtips-github-actions" value="LINUXtips-github-actions"
                                style="padding: 10px; border-radius: 6px; border: 1px solid var(--border-color); background: var(--primary-color); color: var(--text-primary); min-width: 200px;">
